@@ -1,0 +1,34 @@
+<root>
+  <default0>
+    <leagueId>1b2df830-01c6-11e8-a367-c81f66dbb56c</leagueId>
+  <leagueName>Janna's Duelists</leagueName>
+  <tier>DIAMOND</tier>
+  <queueType>RANKED_SOLO_5x5</queueType>
+  <rank>II</rank>
+  <playerOrTeamId>43223755</playerOrTeamId>
+  <playerOrTeamName>Firoe</playerOrTeamName>
+  <leaguePoints>76</leaguePoints>
+  <wins>46</wins>
+  <losses>29</losses>
+  <veteran>False</veteran>
+  <inactive>False</inactive>
+  <freshBlood>False</freshBlood>
+  <hotStreak>False</hotStreak>
+  </default0>
+<default1>
+    <leagueId>07e97f00-0d39-11e8-bc10-c81f66cf135e</leagueId>
+  <leagueName>Zed's Brigands</leagueName>
+  <tier>PLATINUM</tier>
+  <queueType>RANKED_FLEX_SR</queueType>
+  <rank>III</rank>
+  <playerOrTeamId>43223755</playerOrTeamId>
+  <playerOrTeamName>Firoe</playerOrTeamName>
+  <leaguePoints>48</leaguePoints>
+  <wins>21</wins>
+  <losses>19</losses>
+  <veteran>False</veteran>
+  <inactive>False</inactive>
+  <freshBlood>False</freshBlood>
+  <hotStreak>True</hotStreak>
+  </default1>
+</root>

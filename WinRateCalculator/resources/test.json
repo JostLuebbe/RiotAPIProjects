@@ -1,0 +1,34 @@
+[
+    {
+        "freshBlood": false,
+        "hotStreak": false,
+        "inactive": false,
+        "leagueId": "1b2df830-01c6-11e8-a367-c81f66dbb56c",
+        "leagueName": "Janna's Duelists",
+        "leaguePoints": 76,
+        "losses": 29,
+        "playerOrTeamId": "43223755",
+        "playerOrTeamName": "Firoe",
+        "queueType": "RANKED_SOLO_5x5",
+        "rank": "II",
+        "tier": "DIAMOND",
+        "veteran": false,
+        "wins": 46
+    },
+    {
+        "freshBlood": false,
+        "hotStreak": true,
+        "inactive": false,
+        "leagueId": "07e97f00-0d39-11e8-bc10-c81f66cf135e",
+        "leagueName": "Zed's Brigands",
+        "leaguePoints": 48,
+        "losses": 19,
+        "playerOrTeamId": "43223755",
+        "playerOrTeamName": "Firoe",
+        "queueType": "RANKED_FLEX_SR",
+        "rank": "III",
+        "tier": "PLATINUM",
+        "veteran": false,
+        "wins": 21
+    }
+]

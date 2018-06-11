@@ -1,0 +1,34 @@
+<root>
+  <default0>
+    <leagueId>4f99a040-06dc-11e8-a367-c81f66dbb56c</leagueId>
+  <leagueName>Ziggs's Emmissaries</leagueName>
+  <tier>PLATINUM</tier>
+  <queueType>RANKED_FLEX_SR</queueType>
+  <rank>I</rank>
+  <playerOrTeamId>28897038</playerOrTeamId>
+  <playerOrTeamName>Stramon</playerOrTeamName>
+  <leaguePoints>0</leaguePoints>
+  <wins>9</wins>
+  <losses>1</losses>
+  <veteran>False</veteran>
+  <inactive>False</inactive>
+  <freshBlood>False</freshBlood>
+  <hotStreak>False</hotStreak>
+  </default0>
+<default1>
+    <leagueId>f1ae3cf0-190c-11e8-a367-c81f66dbb56c</leagueId>
+  <leagueName>Singed's Fists</leagueName>
+  <tier>DIAMOND</tier>
+  <queueType>RANKED_SOLO_5x5</queueType>
+  <rank>III</rank>
+  <playerOrTeamId>28897038</playerOrTeamId>
+  <playerOrTeamName>Stramon</playerOrTeamName>
+  <leaguePoints>12</leaguePoints>
+  <wins>32</wins>
+  <losses>20</losses>
+  <veteran>False</veteran>
+  <inactive>False</inactive>
+  <freshBlood>False</freshBlood>
+  <hotStreak>False</hotStreak>
+  </default1>
+</root>
